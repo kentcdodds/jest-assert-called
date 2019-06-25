@@ -1,0 +1,10 @@
+{
+  "name": "jest-assert-called",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (https://kentcdodds.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
